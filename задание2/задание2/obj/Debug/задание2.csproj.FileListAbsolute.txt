@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\задание2\задание2\bin\Debug\задание2.exe.config
+C:\Users\User\source\repos\задание2\задание2\bin\Debug\задание2.exe
+C:\Users\User\source\repos\задание2\задание2\bin\Debug\задание2.pdb
+C:\Users\User\source\repos\задание2\задание2\obj\Debug\задание2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\задание2\задание2\obj\Debug\задание2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\задание2\задание2\obj\Debug\задание2.exe
+C:\Users\User\source\repos\задание2\задание2\obj\Debug\задание2.pdb
